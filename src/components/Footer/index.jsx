@@ -26,11 +26,11 @@ const Footer = () => {
           </Stack>
           <Stack direction={{md:"row",xs:"row"}}>
           <PhoneAndroidIcon sx={{marginRight:{md:"10px",xs:"10px"}}}/>
-          <Typography variant="p"  sx={{ fontFamily: { md: "Roboto", xs: "Roboto" }, fontSize: { md: "18px", xs: "14px" }, mb: { md: "30px", xs: "30px" } }}>0312-2833671</Typography>
+          <Typography variant="p"  sx={{ fontFamily: { md: "Roboto", xs: "Roboto" }, fontSize: { md: "18px", xs: "14px" }, mb: { md: "30px", xs: "30px" } }}>(9283585873</Typography>
           </Stack>
           <Stack direction={{md:"row",xs:"row"}}>
           <EmailIcon sx={{marginRight:{md:"10px",xs:"10px"}}}/>
-          <Typography variant="p"  sx={{ fontFamily: { md: "Roboto", xs: "Roboto" }, fontSize: { md: "18px", xs: "14px" }, mb: { md: "30px", xs: "30px" } }}> abdul@gmail.com</Typography>
+          <Typography variant="p"  sx={{ fontFamily: { md: "Roboto", xs: "Roboto" }, fontSize: { md: "18px", xs: "14px" }, mb: { md: "30px", xs: "30px" } }}> example@gmail.com</Typography>
           </Stack>
 
         </Stack>
