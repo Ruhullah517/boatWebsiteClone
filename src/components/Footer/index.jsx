@@ -67,7 +67,7 @@ const Footer = () => {
 
       </Stack>
       <Stack direction={{ md: "row", xs: "row" }} justifyContent={{ md: "space-between", xs: "space-between" }} pt={{ md: "15px", xs: "10px" }} sx={{ width: { md: "100%", xs: "100%" }, px: { md: "15%", xs: "4%" }, backgroundColor: { md: "#fff", xs: "#fff" }, height: { md: "70px", xs: "60px" } }}>
-        <Typography variant="p" sx={{ fontSize: { md: "18px", xs: "8px" }, fontFamily: { md: "Roboto", xs: "Roboto" }, pt: { md: "10px", xs: "5px" } }}>Ecommerce Website 2022 created by abdul </Typography>
+        <Typography variant="p" sx={{ fontSize: { md: "18px", xs: "8px" }, fontFamily: { md: "Roboto", xs: "Roboto" }, pt: { md: "10px", xs: "5px" } }}>Ecommerce Website 2022 created by Ruhullah </Typography>
         <Box component="img" sx={{ width: { md: "330px", xs: "150px" }, height: { md: "40px", xs: "20px" } }} src={paymentImg} alt="" />
       </Stack>
     </>
